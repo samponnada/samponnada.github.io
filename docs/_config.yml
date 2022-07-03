@@ -21,7 +21,7 @@
 title: Sam Ponnada
 email: sponnada@astro.caltech.edu
 description: >- # this means to ignore newlines until "baseurl:"
- "Hello and welcome to my website (under construction)! I'm a second year Astrophysics graduate student at Caltech working with Phil Hopkins on understanding magnetic fields in galaxies."
+""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samponnada

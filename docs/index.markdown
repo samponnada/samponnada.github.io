@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Hello and welcome to my website (under construction)! I'm a second year Astrophysics graduate student at Caltech working with Phil Hopkins on understanding magnetic fields in galaxies.

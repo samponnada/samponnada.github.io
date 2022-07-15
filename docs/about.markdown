@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 logo:sam_poppy.jpg
-permalink: about/ 
+permalink: /about/ 
 ---
 I am a second year graduate student in Astrophysics at Caltech, working with Prof. [Phil Hopkins](http://www.tapir.caltech.edu/~phopkins/Site/) on understanding magnetic fields in galaxies through the use of high-resolution, cosmological simulations of galaxy formation. I'm particularly interested in working closely with observations to constrain theoretical predictions, as well as leveraging theory to make predictions for future observations. My interest in magnetic fields and galaxies is broad; ranging from questions of how magnetic fields can influence cool gas accretion from the halos of galaxies to understanding amplification mechanisms of the magnetic fields over cosmological time.
 

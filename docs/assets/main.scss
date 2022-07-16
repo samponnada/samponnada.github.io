@@ -3,11 +3,3 @@
 ---
 
 @import "minima";
-
-.site-title::before {
-content: url("/assets/sam_poppy.jpg");
-display: inline-block;
-position: relative;
-width: 35px;
-top: 5px;
-}

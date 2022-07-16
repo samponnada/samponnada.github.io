@@ -29,6 +29,12 @@ github_username:  samponnada
 theme: minima
 plugins:
   - jekyll-feed
+  
+#collection settings
+collections: 
+  pages:
+    output: true
+    permalink:/:collection/:path
 
 # Exclude from processing.
 # The following items will not be processed, by default.

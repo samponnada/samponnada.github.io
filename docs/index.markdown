@@ -6,7 +6,6 @@ layout: home
 ---
 
 ## Welcome to my website! 
-![](sam_poppy.jpg){:class="img-responsive"}
 
 I'm a 2nd year graduate student in Astrophysics at Caltech, working on understanding galactic magnetic fields with [Prof. Phil Hopkins](http://www.tapir.caltech.edu/~phopkins/Site/) For my biographical info, click [here](https://samponnada.github.io/about/). For updates on my research, keep scrolling down below!  
 

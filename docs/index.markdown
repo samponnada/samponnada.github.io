@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## Welcome to my website!
+# Welcome to my website!
 
 ![](sam_poppy.jpg){:class="img-responsive":height="700px":width="400px"}
 

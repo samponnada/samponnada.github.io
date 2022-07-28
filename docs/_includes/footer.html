@@ -9,8 +9,8 @@
           </a>
         </p>
       {%- if site.author %}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {% if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif %}
         </ul>
       {%- endif %}

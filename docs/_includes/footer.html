@@ -8,12 +8,12 @@
       <div class="footer-col">
           </a>
         </p>
-      {%- if site.author %}
-          {% if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {%- endif %}
+      
+          
+        <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+         
         </ul>
-      {%- endif %}
+      
       </div>
       <div class="footer-col">
       </div>

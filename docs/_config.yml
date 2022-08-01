@@ -19,7 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sam Ponnada
-email: sponnada@astro.caltech.edu
+author:
+  name: Sam Ponnada
+  email: sponnada@astro.caltech.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samponnada

@@ -24,7 +24,6 @@ author:
   email: sponnada@astro.caltech.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: samponnada
 github_username:  samponnada
 nasa_ads: "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-7484-2695&sort=date+desc"
 orcid_id: "https://orcid.org/0000-0002-7484-2695" # Replace with your ORCiD ID

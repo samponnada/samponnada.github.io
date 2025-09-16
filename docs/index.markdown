@@ -6,6 +6,6 @@ layout: home
 title: Welcome to my website!
 ---
 
-<img src="sam_bryce.jpeg" alt="sam" width="200" align="left" style="padding-right: 15px; float: left;"> I'm a fifth-year PhD Candidate in Astrophysics at Caltech, working on understanding galactic magnetic fields and cosmic rays with [Prof. Phil Hopkins](http://www.tapir.caltech.edu/~phopkins/Site/). For my biographical info, click [here](https://samponnada.github.io/about/). An up-to-date-version of my CV (as of May 2025) is linked [here](https://caltech.box.com/s/fr39q8eixv36ffjjqjbqhczj92zcbton).
+<img src="sam_bryce.jpeg" alt="sam" width="200" align="left" style="padding-right: 15px; float: left;"> I recently graduated with my PhD in Astrophysics at Caltech. I work on broad topics related to galaxy formation and evolution and the interstellar and circumgalactic medium, with an emphasis on understanding the "non-thermal" physics astrophysical magnetism and cosmic ray transport & feedback. I use a variety of analytical and state-of-the-art simulation methods deeply anchored to observable predictions and interpretation to understand how non-thermal physics shapes galaxies across cosmic time. For my biographical info, click [here](https://samponnada.github.io/about/). An up-to-date-version of my CV (as of Sep 2025) is linked [here](https://caltech.box.com/s/fr39q8eixv36ffjjqjbqhczj92zcbton).
 
 

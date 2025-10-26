@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/ 
 ---
 
-View an up-to-date (as of Sep 2025) version of my CV [here](https://caltech.box.com/s/fr39q8eixv36ffjjqjbqhczj92zcbton)!
+View an up-to-date (as of Oct. 2025) version of my CV [here](https://caltech.box.com/s/fr39q8eixv36ffjjqjbqhczj92zcbton)!

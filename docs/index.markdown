@@ -10,6 +10,6 @@ title: Welcome to my website!
 
 For my biographical info, [click here](https://samponnada.github.io/about/). 
 
-An up-to-date-version of my CV (as of Jan. 2026) is [linked here](https://drive.google.com/file/d/1mhh6D4lmr106G1iMjT6DbuBnJ0rJuvuM/view?usp=sharing).
+An up-to-date-version of my CV (as of May 2026) is [linked here](https://drive.google.com/file/d/1mhh6D4lmr106G1iMjT6DbuBnJ0rJuvuM/view?usp=sharing).
 
 
